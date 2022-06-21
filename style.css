@@ -2,11 +2,9 @@ body {
     background-color: rgb(69, 69, 69);
     font: 13pt Arial;
     background-image:url('coku.jpg');
-    background-attachment: fixed;
-    background-position: center;
-    
+   
+    background-origin: padding-box;
 }
-
 main {
     background-color: white;
     width: 700px;
