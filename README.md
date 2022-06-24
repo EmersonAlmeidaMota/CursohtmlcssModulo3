@@ -1,2 +1,2 @@
-# CursohtmlcssModulo3
- Projeto Web em Html e Css
+# projeto-site
+ Projeto de um site criado durante o curso de Git e GitHub
